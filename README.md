@@ -6,7 +6,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Plcc18)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que uso
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Pedro-Python" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
