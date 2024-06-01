@@ -1,4 +1,4 @@
-### Olá! Sou o Pedro Lucas, estudante de Desenvolvimento de Sistemas. Atualmente estudo Python
+### Olá! Sou o Pedro Lucas, estudante de Desenvolvimento de Sistemas. Atualmente estudo Fullstack
 
 [![INSTAGRAM](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://intagram.com/plzer0)
 
