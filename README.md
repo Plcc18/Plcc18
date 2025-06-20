@@ -6,11 +6,11 @@
 
 #### Current stack
 
-- ⚡️ Main language: `Javascript`
+- ⚡️ Main language: `Java`
 - 🎉 Frontend: `HTML5`, `CSS`, `JAVASCRIPT`
-- ⚙️ Backend: `NODEJS`, `SQL`
+- ⚙️ Backend: `Java`,`NODEJS`, `SQL`
 - 📦️ Version code control: `Git & GitHub`
-- 🔧 Tools: `VsCode`
+- 🔧 Tools: `VsCode`, `IntelliJ`
 
 
 #### Contacts
